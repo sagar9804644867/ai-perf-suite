@@ -1,0 +1,6 @@
+streamlit>=1.36
+requests>=2.31
+pandas>=2.0
+python-dotenv>=1.0
+kubernetes>=29.0
+matplotlib>=3.8
